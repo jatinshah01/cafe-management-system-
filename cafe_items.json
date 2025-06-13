@@ -1,0 +1,176 @@
+{
+    "cafe menu": {
+        "Pizza": [
+            {
+                "name": "Cheese Pizza",
+                "price": 6.5,
+                "image_location": "product_img/cheese pizza.jpg"
+            },
+            {
+                "name": "Pepperoni Pizza",
+                "price": 9.0,
+                "image_location": "product_img/pepperoni pizza.jpg"
+            },
+            {
+                "name": "Veggie Pizza",
+                "price": 7.5,
+                "image_location": "product_img/veggie pizza.jpg"
+            },
+            {
+                "name": "Chicken Pizza",
+                "price": 9.5,
+                "image_location": "product_img/chicken pizza.jpg"
+            },
+            {
+                "name": "Italian Pizza",
+                "price": 7.25,
+                "image_location": "product_img/italian pizza.jpg"
+            }
+        ],
+        "Burger": [
+            {
+                "name": "Cheese Burger",
+                "price": 5.25,
+                "image_location": "product_img/cheese burger.jpg"
+            },
+            {
+                "name": "Chicken Burger",
+                "price": 6.75,
+                "image_location": "product_img/chicken burger.jpg"
+            },
+            {
+                "name": "Spicy Burger",
+                "price": 4.25,
+                "image_location": "product_img/spicy burger.jpg"
+            },
+            {
+                "name": "Veg Burger",
+                "price": 4.9,
+                "image_location": "C:/Users/jatin/Desktop/cafe managment/product_img/veg burger.jpg"
+            }
+        ],
+        "Sandwich": [
+            {
+                "name": "Cheese Sandwich",
+                "price": 5.0,
+                "image_location": "product_img/cheese sandwich.jpg"
+            },
+            {
+                "name": "Chicken Sandwich",
+                "price": 6.25,
+                "image_location": "product_img/chicken sandwich.jpg"
+            },
+            {
+                "name": "Veg Sandwich",
+                "price": 4.75,
+                "image_location": "product_img/veg sandwich.jpg"
+            },
+            {
+                "name": "Egg Sandwich",
+                "price": 4.9,
+                "image_location": "product_img/egg sandwich.jpg"
+            },
+            {
+                "name": "Tuna Sandwich",
+                "price": 6.5,
+                "image_location": "product_img/tuna sandwich.jpg"
+            },
+            {
+                "name": "Tofu Sandwich",
+                "price": 5.75,
+                "image_location": "product_img/tofu sandwich.jpg"
+            }
+        ],
+        "Shakes": [
+            {
+                "name": "Chocolate Shake",
+                "price": 4.25,
+                "image_location": "product_img/chocolate shake.jpg"
+            },
+            {
+                "name": "Nutella Shake",
+                "price": 5.5,
+                "image_location": "product_img/nutella shake.jpg"
+            },
+            {
+                "name": "Banana Shake",
+                "price": 4.75,
+                "image_location": "product_img/banana shake.jpg"
+            },
+            {
+                "name": "Strawberry Shake",
+                "price": 4.5,
+                "image_location": "product_img/strawberry shake.jpg"
+            },
+            {
+                "name": "Vanilla Shake",
+                "price": 5.0,
+                "image_location": "product_img/vanilla shake.jpg"
+            },
+            {
+                "name": "Peanut Butter Shake",
+                "price": 5.25,
+                "image_location": "product_img/peanut butter shake.jpg"
+            }
+        ],
+        "Drinks": [
+            {
+                "name": "Coke",
+                "price": 1.75,
+                "image_location": "product_img/coke.jpg"
+            },
+            {
+                "name": "Sprite",
+                "price": 1.75,
+                "image_location": "product_img/sprite.jpg"
+            },
+            {
+                "name": "Iced Tea",
+                "price": 2.25,
+                "image_location": "product_img/iced tea.jpg"
+            },
+            {
+                "name": "Mojito",
+                "price": 2.75,
+                "image_location": "product_img/mojito.jpg"
+            },
+            {
+                "name": "Cold Coffee",
+                "price": 3.0,
+                "image_location": "product_img/cold coffee.jpg"
+            }
+        ],
+        "Hot Beverages": [
+            {
+                "name": "Espresso",
+                "price": 2.0,
+                "image_location": "product_img/espresso.jpg"
+            },
+            {
+                "name": "Tea",
+                "price": 2.0,
+                "image_location": "product_img/tea.jpg"
+            },
+            {
+                "name": "Cappuccino",
+                "price": 2.75,
+                "image_location": "product_img/cappuccino.jpg"
+            },
+            {
+                "name": "Latte",
+                "price": 3.25,
+                "image_location": "product_img/latte.jpg"
+            },
+            {
+                "name": "Green Tea",
+                "price": 2.25,
+                "image_location": "product_img/green tea.jpg"
+            },
+            {
+                "name": "Hot Chocolate",
+                "price": 3.0,
+                "image_location": "product_img/hot chocolate.jpg"
+            }
+        ]
+    }
+}
